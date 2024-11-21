@@ -2,7 +2,7 @@
 
 ## Running in local development environment
 
-```
+``` bash
 mvn spring-boot:run
 ```
 
