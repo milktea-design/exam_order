@@ -1,4 +1,4 @@
-# order - shy
+# order
 
 ## Running in local development environment
 
